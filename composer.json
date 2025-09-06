@@ -18,12 +18,6 @@
     "require": {
         "php": ">=8.2",
         "doctrine/dbal": "^3.5",
-        "illuminate/config": "11.x",
-        "illuminate/console": "11.x",
-        "illuminate/container": "11.x",
-        "illuminate/contracts": "11.x",
-        "illuminate/database": "11.x",
-        "illuminate/filesystem": "11.x",
         "laravel/framework":"^12.0",
         "nikolag/core": "2.9.x",
         "square/square": "29.0.0.20230720"
